@@ -1,0 +1,442 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.linuxauthority.stickers",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Snoomoji Pack 1",
+      "publisher": "Maven",
+      "tray_image_file": "tray_tongue.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "snaveen.api@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_heart_eyes_pride.webp",
+          "emojis": [
+            "😍",
+            ""
+          ]
+        },
+        {
+          "image_file": "02_give_upvote_pride.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "03_upvote_pride.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "04_snoo.webp",
+          "emojis": [
+            "🙂",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "05_snoo_simple_smile.webp",
+          "emojis": [
+            "😌",
+            ""
+          ]
+        },
+        {
+          "image_file": "06_snoo_smile.webp",
+          "emojis": [
+            "😄",
+            ""
+          ]
+        },
+        {
+          "image_file": "07_snoo_joy.webp",
+          "emojis": [
+            "😂",
+            ""
+          ]
+        },
+        {
+          "image_file": "08_snoo_tongue.webp",
+          "emojis": [
+            "😋",
+            ""
+          ]
+        },
+        {
+          "image_file": "09_snoo_wink.webp",
+          "emojis": [
+            "😉",
+            ""
+          ]
+        },
+        {
+          "image_file": "10_snoo_sad.webp",
+          "emojis": [
+            "😢",
+            ""
+          ]
+        },
+        {
+          "image_file": "11_snoo_cry.webp",
+          "emojis": [
+            "😭",
+            ""
+          ]
+        },
+        {
+          "image_file": "12_snoo_angry.webp",
+          "emojis": [
+            "😡",
+            "😠"
+          ]
+        },
+        {
+          "image_file": "13_snoo_disapproval.webp",
+          "emojis": [
+            "😑",
+            ""
+          ]
+        },
+        {
+          "image_file": "14_snoo_trollface.webp",
+          "emojis": [
+            "😜",
+            "😝"
+          ]
+        },
+        {
+          "image_file": "15_snoo_dealwithit.webp",
+          "emojis": [
+            "😎",
+            ""
+          ]
+        },
+        {
+          "image_file": "16_snoo_facepalm.webp",
+          "emojis": [
+            "🤦",
+            "🤦"
+          ]
+        },
+        {
+          "image_file": "17_snoo_shrug.webp",
+          "emojis": [
+            "🤷",
+            "🤷"
+          ]
+        },
+        {
+          "image_file": "18_snoo_scream.webp",
+          "emojis": [
+            "😱",
+            "😲"
+          ]
+        },
+        {
+          "image_file": "19_snoo_thoughtful.webp",
+          "emojis": [
+            "🤔",
+            ""
+          ]
+        },
+        {
+          "image_file": "20_snoo_surprised.webp",
+          "emojis": [
+            "😲",
+            "😮"
+          ]
+        },
+        {
+          "image_file": "21_snoo_hearteyes.webp",
+          "emojis": [
+            "😍",
+            ""
+          ]
+        },
+        {
+          "image_file": "22_snoo_hug.webp",
+          "emojis": [
+            "🤗",
+            ""
+          ]
+        },
+        {
+          "image_file": "23_snoo_feelsbadman.webp",
+          "emojis": [
+            "😒",
+            "😟"
+          ]
+        },
+        {
+          "image_file": "24_snoo_feelsgoodman.webp",
+          "emojis": [
+            "🙃",
+            "😃"
+          ]
+        },
+        {
+          "image_file": "25_snoo_putback.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "26_snoo_tableflip.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "27_orly.webp",
+          "emojis": [
+            "🐧",
+            ""
+          ]
+        },
+        {
+          "image_file": "28_hamster.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "29_doge.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "30_cat_blep.webp",
+          "emojis": [
+            "😺",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Snoomoji Pack 2",
+      "publisher": "Maven",
+      "tray_image_file": "neutral_face_tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "snaveen.api@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_snoo_blush.webp",
+          "emojis": [
+            "☺️",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "02_snoo_spiral_eyes.webp",
+          "emojis": [
+            "😵"
+          ]
+        },
+        {
+          "image_file": "03_snoo_woah.webp",
+          "emojis": [
+            "😦",
+            "😫",
+            "😧"
+          ]
+        },
+        {
+          "image_file": "04_snoo_wooo.webp",
+          "emojis": [
+            "😮",
+            "😯"
+          ]
+        },
+        {
+          "image_file": "05_snoo_surprised.webp",
+          "emojis": [
+            "😲",
+            "😳"
+          ]
+        },
+        {
+          "image_file": "06_snoo_upvote_pride.webp",
+          "emojis": [
+            "😇",
+            "✌"
+          ]
+        },
+        {
+          "image_file": "07_snoo_grimacing_face.webp",
+          "emojis": [
+            "😬",
+            "🤮"
+          ]
+        },
+        {
+          "image_file": "08_snoo_smiley.webp",
+          "emojis": [
+            "😁",
+            "😀",
+            "😃"
+          ]
+        },
+        {
+          "image_file": "09_snoo_kissthrow.webp",
+          "emojis": [
+            "😅",
+            "😍",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "10_snoo_neutral_face.webp",
+          "emojis": [
+            "😐",
+            "😑",
+            "🙄"
+          ]
+        },
+        {
+          "image_file": "11_snoo_expressionless.webp",
+          "emojis": [
+            "😶",
+            "😒",
+            "😕"
+          ]
+        },
+        {
+          "image_file": "12_snoo_absolute_anger.webp",
+          "emojis": [
+            "😡",
+            "🤬",
+            "😠"
+          ]
+        },
+        {
+          "image_file": "13_snoo_crossed_eyes.webp",
+          "emojis": [
+            "😫",
+            "😣",
+            "😖"
+          ]
+        },
+        {
+          "image_file": "14_snoo_scream_bluish.webp",
+          "emojis": [
+            "😱",
+            "😲",
+            "🙀"
+          ]
+        },
+        {
+          "image_file": "15_snoo_tears.webp",
+          "emojis": [
+            "😪",
+            "😓",
+            "😥"
+          ]
+        },
+        {
+          "image_file": "16_snoo_radio_anger.webp",
+          "emojis": [
+            "🤖",
+            "😬",
+            "🥶"
+          ]
+        },
+        {
+          "image_file": "17_downvote.webp",
+          "emojis": [
+            "👎",
+            "🙄",
+            "😑"
+          ]
+        },
+        {
+          "image_file": "18_upvote.webp",
+          "emojis": [
+            "😌",
+            "👍",
+            "👌"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Snoomoji Pack 3",
+      "publisher": "Maven",
+      "tray_image_file": "snoo_sad_tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "snaveen.api@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_snoo_hi.webp",
+          "emojis": [
+            "👋",
+            "🙋",
+            "☝️"
+          ]
+        },
+        {
+          "image_file": "02_snoo_crossed_hands.webp",
+          "emojis": [
+            "🙇",
+            "🙇",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "03_snoo_wink.webp",
+          "emojis": [
+            "😉",
+            "😘",
+            "✌️"
+          ]
+        },
+        {
+          "image_file": "04_snoo_run.webp",
+          "emojis": [
+            "🏃",
+            "🏃",
+            "😃"
+          ]
+        },
+        {
+          "image_file": "05_snoo_hello.webp",
+          "emojis": [
+            "🤔",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "06_snoo_sitting_sad.webp",
+          "emojis": [
+            "😶",
+            "😐",
+            "😟"
+          ]
+        }
+      ]
+    }
+  ]
+}
